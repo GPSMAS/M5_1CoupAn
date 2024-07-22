@@ -68,7 +68,7 @@ Section of the code where the changes to the data, analyzed and described in the
 
 ### General Analysis
 
-Section where we perform analyses and general considerations. It specifically emerges that temperature is not a significant variable, whereas the variable weather appears to be more significant both in terms of the data present in the DataFrame and the results. Additionally, it is noted that the most accepted coupon categories are take away and cheap restaurant.
+Section where we perform analyses and general considerations. It specifically emerges that temperature is not a significant variable, whereas the variable weather appears to be more significant both in terms of the data present in the DataFrame and the results -- [TempWeatherImage](img/TempWeat.png) . Additionally, it is noted that the most accepted coupon categories are take away and cheap restaurant.
 
 You can view the related image [Coupon Frequency](img/coupon_frequency.png)
 
