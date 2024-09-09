@@ -53,7 +53,7 @@ An output folder with the Excel files generated as results of the analysis.
 
 Il file notebook è al seguente link: [view the notebook](WCAC_v2.ipynb)
 
-Il progetto si trova anche su github: **https://github.com/radema/Controllo-CUP.git**
+Il progetto si trova anche su github: **[https://github.com/GPSMAS/M5_1CoupAn](https://github.com/GPSMAS/M5_1CoupAn)**
 
 The analysis consists of several sections (described in more detail directly in the file WCAC_v2), which are:
 
